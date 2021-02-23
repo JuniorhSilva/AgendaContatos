@@ -1,6 +1,6 @@
 
 class Interface:
-    lista_menu = ['mostrar contato', 'buscar contato',
+    lista_menu = ['mostrar contatos', 'buscar contato',
                   'adicionar contato', 'editar contato',
                   'excluir contato', 'exportar Agenda', 'importar contatos', 'sair']
 
